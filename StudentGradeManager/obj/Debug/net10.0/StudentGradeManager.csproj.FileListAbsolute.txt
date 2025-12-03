@@ -1,0 +1,14 @@
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\bin\Debug\net10.0\StudentGradeManager.exe
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\bin\Debug\net10.0\StudentGradeManager.deps.json
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\bin\Debug\net10.0\StudentGradeManager.runtimeconfig.json
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\bin\Debug\net10.0\StudentGradeManager.dll
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\bin\Debug\net10.0\StudentGradeManager.pdb
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\StudentGradeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\StudentGradeManager.AssemblyInfoInputs.cache
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\StudentGradeManager.AssemblyInfo.cs
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\StudentGradeManager.csproj.CoreCompileInputs.cache
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\StudentGradeManager.dll
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\refint\StudentGradeManager.dll
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\StudentGradeManager.pdb
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\StudentGradeManager.genruntimeconfig.cache
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\ref\StudentGradeManager.dll
