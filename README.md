@@ -1,4 +1,4 @@
-# StudentGradesManager
+# Student Grades Manager
 A simple C# console application to practice data structures and algorithms.
 
 # Features
