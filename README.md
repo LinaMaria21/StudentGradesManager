@@ -8,7 +8,7 @@ A simple C# console application to practice data structures and algorithms
 - Calculate the average grade
 - Demonstrates loops, lists, and methods
 
-
+]]]
 # Tech
 - .NET 8
 - C#
