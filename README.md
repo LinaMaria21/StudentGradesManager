@@ -4,11 +4,11 @@ C# console application to manage grades and to practice data structures and algo
 
 # Features
 You can enter student grades to:
-
 - Store the grades in a List<int>
 - Display all grades entered
 - Calculate the average grade
 - Demonstrates loops, lists, and methods
+User friendly
 
 
 # Tech
