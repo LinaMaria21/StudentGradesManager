@@ -10,6 +10,13 @@ You can enter student grades to:
 - Demonstrates loops, lists, and methods
 User friendly
 
+# How to run
+
+1. Install .NET 8 SDK  
+2. Clone this repository  
+3. Open the project in Visual Studio or VS Code  
+4. Run the program using dotnet run
+
 
 # Tech
 - .NET 8
