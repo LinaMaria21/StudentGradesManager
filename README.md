@@ -21,3 +21,5 @@ You can enter student grades to:
 - .NET 8
 - C#
 - Console App
+
+Grades manager
