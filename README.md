@@ -1,8 +1,10 @@
-# Easy-Student-Grades-Manager 
-C# console application to manage grades and to practice data structures and algorithms.
+
+Easy-Student-Grades-Manager 
+C# console application to manage grades and to practice data structures and algorithms
+
 .NET 8
 
-# Features
+Features
 You can enter student grades to:
 - Store grades in a List<int>
 - Display all grades entered
@@ -10,7 +12,7 @@ You can enter student grades to:
 - Demonstrates loops, lists and methods
 
 
-# How to run
+How to run
 1. Install .NET 8 SDK  
 2. Clone this repository  
 3. Open the project in Visual Studio or VS Code  
