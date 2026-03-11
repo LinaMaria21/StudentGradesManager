@@ -1,5 +1,5 @@
 
-Easy-Student-Grades-Manager 
+Student-Grades-Manager 
 C# console application to manage grades and to practice data structures and algorithms
 
 .NET 8
