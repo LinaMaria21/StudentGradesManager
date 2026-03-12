@@ -19,7 +19,6 @@ How to run
 4. Run the program using dotnet run
 
 
-# Tech
 - .NET 8
 - C#
 - Console App
