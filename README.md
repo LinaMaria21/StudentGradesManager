@@ -5,7 +5,7 @@ C# Console application to manage grades and to practice data structures and algo
 .NET 8
 
 Features
-You can enter student grades to:
+Students can enter their grades:
 - Store grades in a List<int>
 - Display all grades entered
 - Calculate the average grade
