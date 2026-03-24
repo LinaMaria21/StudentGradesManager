@@ -1,6 +1,8 @@
 
 Student Grades Manager 
-C# Console application to manage grades and to practice data structures and algorithms
+
+C# Console application 
+It's made to manage grades and to practice data structures and algorithms
 
 .NET 8
 
