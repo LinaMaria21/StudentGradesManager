@@ -2,12 +2,12 @@
 Student Grades Manager 
 
 C# Console application
-I made this console app to manage grades and to practice data structures and algorithms.
+This is a console app to manage grades and to practice data structures and algorithms.
 
 .NET 8
 
 Features
-Students can enter their grades:
+Students can:
 
 - Store grades in a List<int>
 - Display all grades entered
