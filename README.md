@@ -1,5 +1,5 @@
 
-student grades manager
+Student grades manager
 C# Console application
 console app to manage grades and to practice data structures and algorithms.
 
