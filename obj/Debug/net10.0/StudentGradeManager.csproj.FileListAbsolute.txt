@@ -12,3 +12,4 @@ C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net
 C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\StudentGradeManager.pdb
 C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\StudentGradeManager.genruntimeconfig.cache
 C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\ref\StudentGradeManager.dll
+C:\Users\linam\OneDrive\Desktop\CSharpProjects\StudentGradeManager\obj\Debug\net10.0\StudentGradeManager.sourcelink.json
