@@ -8,7 +8,6 @@ console app, helps to manage grades and to practice data structures and algorith
 
 Features
 Students can:
-
 - Store grades in a List<int>
 - Display all grades entered
 - Calculate the average grade
