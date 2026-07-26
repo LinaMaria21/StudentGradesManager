@@ -20,7 +20,6 @@ How to run
 3. Open the project in Visual Studio or VS Code  
 4. Run the program using dotnet run
 
-
 - .NET 8
 - C#
 - Console App
