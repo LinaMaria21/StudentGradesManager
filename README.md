@@ -10,6 +10,7 @@ Students can:
 - Display all grades entered
 - Calculate the average grade
 - Demonstrates loops, lists and methods
+- 
 
 How to run
 1. Install .NET 8 SDK  
